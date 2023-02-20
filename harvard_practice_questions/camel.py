@@ -25,4 +25,4 @@ def to_snake(word):
     return snake_case
     
     
-print(to_snake('helloMyNameIsJishan'))
+print(to_snake('helloMyNameIsJishan '))
